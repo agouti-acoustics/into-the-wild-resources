@@ -6,4 +6,4 @@
 
 3. In Arduino IDE, use `sketch -> Include Library -> Add .ZIP Library` to add the two above libraries. This allows the Wio to interface with and read data from the SHT40 sensor.
 
-Now you should be able to upload our code for running on the Wio Terminal.
+4. Now you should be able to upload our code in [`main.ino`](./main/main.ino) for running on the Wio Terminal.
