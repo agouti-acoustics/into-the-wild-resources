@@ -1,0 +1,4 @@
+tflite-runtime
+scipy
+pyserial
+numpy
