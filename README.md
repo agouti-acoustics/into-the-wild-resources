@@ -1,6 +1,6 @@
 <img src="media/agouti.png" style="width: 100px; height: 100px"></img>
 
-# Agouti
+# Agouti - Supporting Files
 
 _Intelligent acoustic monitoring made accessible_
 
