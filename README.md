@@ -10,4 +10,8 @@ This repo contains all the additional files in our submission to the [Seeed X Ha
 
 ![cover_img](media/cover.jpg)
 
+##
+
+You can find Seeed's summary of the contest [here](https://www.seeedstudio.com/blog/2023/02/15/seeed-launches-project-repository-of-iot2wild-contest-for-sustainable-planet-2022-available-for-free-downloads/), where we feature as a Helium Prize winner!
+
 Copyright 2022 Agouti Acoustics
